@@ -1,8 +1,3 @@
-# demo_cgn_1
+# Cool my first repo
 
-## sub_level
-## sub_sub_level
-Hi
-
-
-hi
+Looks like fun, this Github stuff
